@@ -63,8 +63,6 @@ Segment the customer base to answer:
 ### Tableau Dashboard?
 🔗 [View Customers Sales Preferences](https://public.tableau.com/views/RFMAnalysis_17547504359310/Sheet10?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
-![RFM Segmentation Example](images/rfm_segments.png)
-
 ---
 
 ## 📜 License
