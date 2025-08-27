@@ -58,13 +58,13 @@ Segment the customer base to answer:
 - For this project, several Tableau sheets were created to analyze customer behavior using RFM segmentation. Due to technical limitations with saving work directly to Tableau Public, all final visualizations have been consolidated in the PDF file included in the project folder.
 The sheets encompass both general metrics and segment-specific insights, including:
 
-- General Analysis: Average orders, spending per customer, recency in days, and frequency distributions (focused on UK customers).
+  - General Analysis: Average orders, spending per customer, recency in days, and frequency distributions (focused on UK customers).
 
-- Segment Analysis: Comparative analysis of orders and spending across different RFM segments.
+  - Segment Analysis: Comparative analysis of orders and spending across different RFM segments.
 
-- Product-Level Analysis: Quantities of the top 20 products purchased, segmented by customer groups.
+  - Product-Level Analysis: Quantities of the top 20 products purchased, segmented by customer groups.
 
-- Customer Preference Density Map: A geographic density visualization displaying customer preferences by segment. For analytical clarity, the visualization highlights the top 20 products (by quantity) and the top 15 customers (by RFM score).
+  - Customer Preference Density Map: A geographic density visualization displaying customer preferences by segment. For analytical clarity, the visualization highlights the top 20 products (by quantity) and   the top 15 customers (by RFM score).
 
 - Collectively, these visualizations provide comprehensive insights into customer purchasing patterns, segment performance, and product demand.
 ---
